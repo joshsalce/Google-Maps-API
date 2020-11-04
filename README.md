@@ -1,2 +1,3 @@
 # Google-Maps-API
-Tour of my favorite locations around La Jolla, Ca
+Tour of my favorite locations around La Jolla, CA.
+
